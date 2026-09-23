@@ -1,0 +1,6 @@
+{
+  "name": "Applied Neuroscience Event Finder",
+  "description": "Discover curated applied neuroscience workshops, webinars, and coaching masterclasses filtered by your niche interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
